@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"McLaren",
+        "base":"woking, United Kingdom",
+    },
+    {
+        "id":2,
+        "name":"Ferrari",
+        "base":"Italia"
+    },
+    {
+        "id":3,
+        "name":"Mercedes",
+        "base":"Bracley , United Kingdom"
+    }
+]
